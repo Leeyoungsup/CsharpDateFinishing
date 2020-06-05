@@ -1,0 +1,13 @@
+C:\Users\lys\Desktop\CSharp\development_part1\DataFinshing\bin\Debug\netcoreapp3.1\DataFinshing.exe
+C:\Users\lys\Desktop\CSharp\development_part1\DataFinshing\bin\Debug\netcoreapp3.1\DataFinshing.deps.json
+C:\Users\lys\Desktop\CSharp\development_part1\DataFinshing\bin\Debug\netcoreapp3.1\DataFinshing.runtimeconfig.json
+C:\Users\lys\Desktop\CSharp\development_part1\DataFinshing\bin\Debug\netcoreapp3.1\DataFinshing.runtimeconfig.dev.json
+C:\Users\lys\Desktop\CSharp\development_part1\DataFinshing\bin\Debug\netcoreapp3.1\DataFinshing.dll
+C:\Users\lys\Desktop\CSharp\development_part1\DataFinshing\bin\Debug\netcoreapp3.1\DataFinshing.pdb
+C:\Users\lys\Desktop\CSharp\development_part1\DataFinshing\obj\Debug\netcoreapp3.1\DataFinshing.csprojAssemblyReference.cache
+C:\Users\lys\Desktop\CSharp\development_part1\DataFinshing\obj\Debug\netcoreapp3.1\DataFinshing.AssemblyInfoInputs.cache
+C:\Users\lys\Desktop\CSharp\development_part1\DataFinshing\obj\Debug\netcoreapp3.1\DataFinshing.AssemblyInfo.cs
+C:\Users\lys\Desktop\CSharp\development_part1\DataFinshing\obj\Debug\netcoreapp3.1\DataFinshing.csproj.CoreCompileInputs.cache
+C:\Users\lys\Desktop\CSharp\development_part1\DataFinshing\obj\Debug\netcoreapp3.1\DataFinshing.dll
+C:\Users\lys\Desktop\CSharp\development_part1\DataFinshing\obj\Debug\netcoreapp3.1\DataFinshing.pdb
+C:\Users\lys\Desktop\CSharp\development_part1\DataFinshing\obj\Debug\netcoreapp3.1\DataFinshing.genruntimeconfig.cache
